@@ -1,16 +1,16 @@
-# Fresh project
+# 🌐 Portafolio Web - Deno & Fresh
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+Portafolio web sencillo desarrollado con **Deno** y **Fresh** como parte de un trabajo académico.
 
-### Usage
+## 🚀 Tecnologías
+- Deno
+- Fresh
+- TypeScript
+- Tailwind CSS
 
-Make sure to install Deno: https://deno.land/manual/getting_started/installation
+## 📸 Vista previa
+Proyecto ejecutándose en entorno local.
 
-Then start the project:
-
-```
+## ▶️ Ejecutar el proyecto
+```bash
 deno task start
-```
-
-This will watch the project directory and restart as necessary.
